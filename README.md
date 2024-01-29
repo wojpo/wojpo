@@ -31,21 +31,19 @@
 
 
 
-libraries = ["standart python libraries", "Beautiful soup", "pycord", "discord.py", "OpenCV", "FastAPI", "Pygame", "Kivy"]
+        libraries = ["standart python libraries", "Beautiful soup", "pycord", "discord.py", "OpenCV", "FastAPI", "Pygame", "Kivy"]
 
 - ### GameDev
 
-Public Void skills()
+        Public Void skills()
+        {
+        debug.log("Unity PC games Experience")
 
-{
+        debug.log("Unity mobile games Experience")
 
-    debug.log("Unity PC games Experience")
-
-    debug.log("Unity mobile games Experience")
-
-    debug.log("C# Basics")
-}
+        debug.log("C# Basics")
+        }
 
 - ### WebDev
 
-    HTML, CSS, Java Script
+        HTML, CSS, Java Script

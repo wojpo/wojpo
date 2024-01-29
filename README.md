@@ -19,31 +19,37 @@
 
     print(wojpo.experience)
     
-    >   experience with python especially with api(s), with html, css and javascript and Gamedev (Unity)
+    >   experience with python especially with api(s), html, css, javascript and Gamedev (Unity)
     
     print(wojpo.education)
 
-    >   Currently in the middle school (Lo 31)
+    >   Currently in the middle school 
 
 
-## 🛠 Skills
-- ### Python 
+## 🎓 Skills
+- ### 🐍 Python 
 
 
 
-        libraries = ["standard python libraries", "Beautiful soup", "pycord", "discord.py", "OpenCV", "FastAPI", "Pygame", "Kivy", "matplotlib", "ColorThief", "starlette", "webcolors", ""]
+        packages = [f"{standartPythonPackages}", "Beautiful soup", "pycord", "discord.py", 
+        "OpenCV", "FastAPI", "Pygame", "Kivy", "matplotlib", "ColorThief", "starlette",
+        "webcolors", "pytube","Numpy","requests","scikit-learn"]
 
-- ### GameDev
+- ### 🎮 GameDev
 
         Public Void skills()
         {
-        debug.log("Unity PC games Experience")
+        debug.log("Unity PC games Experience");
 
-        debug.log("Unity mobile games Experience")
+        debug.log("Unity mobile games Experience");
 
-        debug.log("C# Basics")
+        debug.log("C# Basics");
         }
+- ### 😭 Java
 
-- ### WebDev
+        system.out.println("Basic knowledge")
+
+
+- ### 📃 WebDev
 
         HTML, CSS, Java Script

@@ -3,15 +3,15 @@
 ## 🚀 About Me 
     System.out.print(wojpo_about_me);
 
-    >   Im 15 years old ambitious student and programmist
+    >   15 years old ambitious student and programmist
 
     System.out.print(wojpo_experience);
 
-    >   Im a full stack java senior developer with 15 years of experience (no cap)
+    >   full stack java senior developer with 15 years of experience (no cap)
 
     System.out.print(wojpo_education);
 
-    >   I graduatet Massachusetts Institute of Technology
+    >   graduatet Massachusetts Institute of Technology
 ## 👌 Seriously Now
     print(wojpo.about_me)
 

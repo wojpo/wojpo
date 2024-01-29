@@ -11,7 +11,7 @@
 
     System.out.print(wojpo_education);
 
-    >   graduatet Massachusetts Institute of Technology
+    >   graduated Massachusetts Institute of Technology
 ## 👌 Seriously Now
     print(wojpo.about_me)
 
@@ -31,7 +31,7 @@
 
 
 
-        libraries = ["standard python libraries", "Beautiful soup", "pycord", "discord.py", "OpenCV", "FastAPI", "Pygame", "Kivy"]
+        libraries = ["standard python libraries", "Beautiful soup", "pycord", "discord.py", "OpenCV", "FastAPI", "Pygame", "Kivy", "matplotlib", "ColorThief", "starlette", "webcolors", ""]
 
 - ### GameDev
 

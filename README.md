@@ -53,3 +53,13 @@
 - ### 📃 WebDev
 
         HTML, CSS, Java Script
+  
+## 🛠 Tools
+- ### 👨‍💻 IDE'S
+        Webstorm, Pycharm, Rider, Intellij (Visual Studio = 💩)
+- ### 🖥 PC
+        Processor = Intel core i5-10400f
+        Graphic card = Nvidia rtx 2060
+        RAM = 16GB
+        Disc = 500GB SSD
+        OS = Windows 10 pro

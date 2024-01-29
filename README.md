@@ -31,7 +31,7 @@
 
 
 
-        libraries = ["standart python libraries", "Beautiful soup", "pycord", "discord.py", "OpenCV", "FastAPI", "Pygame", "Kivy"]
+        libraries = ["standard python libraries", "Beautiful soup", "pycord", "discord.py", "OpenCV", "FastAPI", "Pygame", "Kivy"]
 
 - ### GameDev
 

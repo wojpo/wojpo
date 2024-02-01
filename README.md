@@ -47,7 +47,7 @@
         }
 - ### 😭 Java
 
-        system.out.println("Basic knowledge")
+        system.out.println("Basic knowledge");
 
 
 - ### 📃 WebDev

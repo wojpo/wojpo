@@ -23,7 +23,7 @@
     
     print(wojpo.education)
 
-    >   Currently in the middle school 
+    >   Currently in the high school 
 
 
 ## 🎓 Skills

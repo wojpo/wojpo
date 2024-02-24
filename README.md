@@ -52,7 +52,7 @@
 
 - ### 📃 WebDev
 
-        HTML, CSS, Java Script, React
+        HTML, CSS, Java Script, React, Redux
   
 ## 🛠 Tools
 - ### 👨‍💻 IDE'S

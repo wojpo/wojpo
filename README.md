@@ -33,7 +33,7 @@
 
         packages = [f"{standardPythonPackages}", "Beautiful soup", "pycord", "discord.py", 
         "OpenCV", "FastAPI", "Pygame", "Kivy", "matplotlib", "ColorThief", "starlette",
-        "webcolors", "pytube","Numpy","requests","scikit-learn"]
+        "webcolors", "pytube","Numpy","requests"]
 
 - ### 🎮 GameDev
 

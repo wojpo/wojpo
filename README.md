@@ -43,7 +43,7 @@
   
 ## 🛠 Tools
 - ### 👨‍💻 IDE'S
-        Webstorm, Pycharm, Rider, Intellij (Visual Studio = 💩)
+        Webstorm, Pycharm, Rider, Intellij 
 - ### 🖥 PC
         Processor = Intel core i5-10400f
         Graphic card = Nvidia rtx 2060

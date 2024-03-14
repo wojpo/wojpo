@@ -33,10 +33,9 @@
 
         debug.log("C# Basics");
         }
-- ### 😭 Java
+- ###  🧱 C
 
-        system.out.println("Basic knowledge");
-
+        basic knowledge;
 
 - ### 📃 WebDev
 

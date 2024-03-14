@@ -1,18 +1,6 @@
 
 # Hello Strangers 😊
-## 🚀 About Me 
-    System.out.print(wojpo_about_me);
-
-    >   15 years old ambitious student and programmist
-
-    System.out.print(wojpo_experience);
-
-    >   full stack java senior developer with 15 years of experience (no cap)
-
-    System.out.print(wojpo_education);
-
-    >   graduated Massachusetts Institute of Technology
-## 👌 Seriously Now
+## 🚀 About Me
     print(wojpo.about_me)
 
     >   Young Programmist who hates java and mainly uses python

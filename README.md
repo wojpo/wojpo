@@ -11,7 +11,7 @@
     
     print(wojpo.education)
 
-    >   Currently in the high school 
+    >   Currently in high school 
 
 
 ## 🎓 Skills

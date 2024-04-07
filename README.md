@@ -17,11 +17,13 @@
 ## 🎓 Skills
 - ### 🐍 Python 
 
-
-
-        packages = [f"{standardPythonPackages}", "Beautiful soup", "pycord", "discord.py", 
-        "OpenCV", "FastAPI", "Pygame", "Kivy", "matplotlib", "ColorThief", "starlette",
-        "webcolors", "pytube","Numpy","requests"]
+        skills = []
+        - skills.append('Basics')
+        - skills.append('API development')
+        - skills.append('Discord/Telegram Bots development')
+        - skills.append('OOP')
+        - skills.append('Algorithms')
+        - skills.append('back end') 
 
 - ### 🎮 GameDev
 

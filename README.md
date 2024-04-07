@@ -18,12 +18,12 @@
 - ### 🐍 Python 
 
         skills = []
-        - skills.append('Basics')
-        - skills.append('API development')
-        - skills.append('Discord/Telegram Bots development')
-        - skills.append('OOP')
-        - skills.append('Algorithms')
-        - skills.append('back end') 
+        skills.append('Basics')
+        skills.append('API development')
+        skills.append('Discord/Telegram Bots development')
+        skills.append('OOP')
+        skills.append('Algorithms')
+        skills.append('back end') 
 
 - ### 🎮 GameDev
 

@@ -3,7 +3,7 @@
 ## 🚀 About Me
     print(wojpo.about_me)
 
-    >   Young Programmist who hates java and mainly uses python
+    >   Young Programmist mainly uses python
 
     print(wojpo.experience)
     

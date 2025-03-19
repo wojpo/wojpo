@@ -2,7 +2,7 @@
 
 ## 😃 About me:
 I am young, polish programmer. 
-I am mainly work in python, C#. I love linux (Ubuntu) ❤️<br/>
+I mainly work in python and C#. I love linux (Ubuntu) ❤️<br/>
 
 ## 📯 How to reach me:
 Talk to me on Discord: Wojpo<br>

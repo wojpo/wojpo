@@ -2,10 +2,9 @@
 
 ## 😃 About me:
 I am young, polish programmer. 
-I mainly work in python and C#. I love linux (Ubuntu) ❤️<br/>
+I mainly work in python and C#. I use arch btw ❤️<br/>
 
 ## 📯 How to reach me:
-Talk to me on Discord: Wojpo<br>
 Mail me: `wojciech.piech@lo31.krakow.pl`
 
 ## 💻 Technologies I use:

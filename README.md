@@ -4,8 +4,6 @@
 I am young, polish programmer. 
 I mainly work in python and C#. I use arch btw ❤️<br/>
 
-## 📯 How to reach me:
-Mail me: `wojciech.piech@lo31.krakow.pl`
 
 ## 💻 Technologies I use:
 <p align=center>
